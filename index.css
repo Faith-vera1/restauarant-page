@@ -1,0 +1,26 @@
+h1{color: rgb(241, 7, 7);
+}
+p1{color: rgb(7, 75, 36); width 20px
+}
+h3{color-interpolation-filters: display: ;}
+span{color: orangered; font-style: italic; }
+nav{background-color: rgb(14, 215, 241); width: 40%; border-radius: 10px;
+ box-sizing: 80%;  padding-left: 40%; }
+section{ background-color:rgb(247, 151, 183); padding-left: 10%; font-family: 'Times New Roman', Times, serif
+    ;font-size: larger; font-style: oblique;font-display: 30px; border-radius: 3cm;
+}
+h3{color: rgb(13, 5, 121); font-style: oblique;}
+P{background-color: salmon; font-display: 40%; border-radius: 10%; padding-right: 
+ 40%; width: 60%}
+button{background-color: crimson;}
+footer{background-color:greenyellow; box-sizing: 80%; border-width:50%; width: 
+    40%; margin-left: 20%; padding-top: 5%; border-radius: 5cm; padding-bottom: 3%;
+}
+p3{ font-stretch: condensed; font-style: italic; column-rule-color: firebrick;
+
+}
+.triangle{width: 0;
+         height: 0%;
+         border: 50px solid transparent;
+        border-bottom: 50px solid red;}
+body{background-image: url(images.html food pizza.jpeg);}
